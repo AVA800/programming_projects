@@ -1,0 +1,1 @@
+CNN model-Bird sounds: This project uses bird sounds provided by the "VAST Challenge 2018 Mini-Challenge 1". These bird sounds are in a folder called "birdSounds", and each sound is in MP3 format. I made spectrograms of different class of birds (Bird sounds). Then, I elaborated a CNN model which classify each class of birds according their spectograms.
