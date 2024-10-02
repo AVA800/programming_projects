@@ -1,0 +1,1 @@
+Clustering Analysis of Dog Images:This project uses the "Stanford Dogs" dataset (dog pictures). In the first part of the project, it uses pictures from the folder "cropped100_dogs"; then, it resizes, and saves them into a folder called "cropped224_dogs". Through these pictures, I made a clustering analysis of 4 classes. The clustering analysis classifies each class of dog.
