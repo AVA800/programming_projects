@@ -1,1 +1,1 @@
-Each folder contains the code used, dataset, and a README.
+Each folder contains the code used, dataset, and a README(description and important information)
