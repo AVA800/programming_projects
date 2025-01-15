@@ -1,1 +1,1 @@
-Association Rule Generation: This project uses a transaction dataset provided by Rowan University. The dataset is called "Grocery_Items_60", and it is a csv file. Through this dataset, I uncovered rules that describe the relationships between different items. 
+Association Rule Generation: This project uses a transaction dataset provided by Rowan University. The dataset is called "Grocery_Items_60", and it is a csv file. Through this dataset, I uncovered rules that describe the relationships between different items. Python was used in this project
